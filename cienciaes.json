@@ -1,0 +1,92 @@
+{
+    "radio": {
+        "name": "Radio Cienciaes",
+        "url":"http://ns331078.ip-176-31-120.eu:8000/mpd"
+    },
+    "general":  {
+        "name":"Podcast General",
+        "description": "Contiene los 25 podcasts más recientes publicados en cienciaes.com. Cada vez que se publique un nuevo episodio de Ulises y la Ciencia, Hablando con Científicos, Ciencia y Genios, La Ciencia Nuestra de Cada Día, Zoo de Fósiles, Vanguardia de la Ciencia, Seis Patas tiene la Vida , Océanos de Ciencia, Quilo de Ciencia, Ciencia Extrema , El Neutrino , Cierta Ciencia o Ciencia Fresca usted lo tendrá en el Podcast General.",
+        "icon": "https://cienciaes.com/images/47.jpg",
+        "url": "http://feeds.feedburner.com/CienciaesPodGeneral"
+    } ,
+    "programs": [
+        {
+            "name":"Ciencia y genios",
+            "description": "Las mentes más claras de la historia han ido tejiendo poco a poco la intrincada tela de araña del conocimiento científico. En cada programa del podcast Ciencia y Genios les ofreceremos la biografía de un gran sabio escrita por varios autores. ",
+            "icon": "https://cienciaes.com/images/34.jpg",
+            "url": "http://feeds.feedburner.com/GeniosDeLaCiencia"
+        },
+        {
+            "name":"Ciencia Nuestra de cada Día",
+            "description": "La Naturaleza nos sorprende cada instante con multitud de fenómenos que despiertan nuestra curiosidad. La Ciencia Nuestra de Cada Día es un espacio en el que Ángel Rodríguez Lozano nos incita a mirar a nuestro alrededor y descubrir fenómenos cotidianos que tienen explicación a la luz de la ciencia. ",
+            "icon": "https://cienciaes.com/images/11.jpg",
+            "url": "http://feeds.feedburner.com/CienciaNuestra"
+        },
+        {
+            "name":"Hablando con Científicos",
+            "description": "El conocimiento científico crece gracias a la labor de miles de personas que se esfuerzan, hasta el agotamiento, por encontrar respuestas a los enigmas que plantea la Naturaleza. En cada programa un científico conversa con Ángel Rodríguez Lozano y abre para nosotros las puertas de un campo del conocimiento.",
+            "icon": "https://cienciaes.com/images/8.jpg",
+            "url": "http://feeds.feedburner.com/HablandoConCientficos"
+        },
+        {
+            "name":"Zoo de fósiles",
+            "description": "La mayor parte de los seres vivos que han poblado la Tierra han desaparecido para siempre. Mensualmente, Germán Fernández Sánchez les ofrece en Zoo de Fósiles la posibilidad de conocer la vida de algunas de las más extraordinarias criaturas que vivieron en el pasado y que han llegado hasta nosotros a través de sus fósiles.",
+            "icon": "https://cienciaes.com/images/12.jpg",
+            "url": "http://feeds.feedburner.com/ZooDeFosiles"
+        },
+        {
+            "name":"Ulises y la Ciencia",
+            "description": "Desde abril de 1995, el profesor Ulises nos ha ido contando los fundamentos de la ciencia. Inspirado por las aventuras de su ilustre antepasado, el protagonista de la Odisea, la voz de Ulises nos invita a visitar mundos fascinantes, sólo comprendidos a la luz de los avances científicos. Con un lenguaje sencillo pero de forma rigurosa, quincenalmente nos cuenta una historia. Un guión de Ángel Rodríguez Lozano.",
+            "icon": "https://cienciaes.com/images/9.jpg",
+            "url": "http://feeds.feedburner.com/Ulisesylaciencia"
+        },
+        {
+            "name":"Vanguardia de la Ciencia",
+            "description": "Vanguardia de la Ciencia es un programa de divulgación científica creado por Angel Rodríguez Lozano en 1995. En cada episodio contamos la ciencia con amenidad y rigor para mostrar los avances que se producen en distintas áreas del conocimiento en forma de reportajes, noticias, entrevistas y curiosidades científicas. ",
+            "icon": "https://cienciaes.com/images/46.jpg",
+            "url": "http://feeds.feedburner.com/cienciaes/VanguardiadelaCiencia"
+        },
+        {
+            "name":"Seis patas tiene la vida",
+            "description": "Los insectos están en todos los sitios, desde los polos hasta el ecuador, desde el nivel del mar hasta las más elevadas cumbres. Llevan en la Tierra más de 400 millones de años y son tan abundantes y tan diversos que nadie sabe a ciencia cierta cuántas especies pueden existir. Adentrarse en este fascinante mundo de animales de seis patas requiere la ayuda de un buen guía: Don José Rafael Esteban Durán, entomólogo. ",
+            "icon": "https://cienciaes.com/images/67.jpg",
+            "url": "http://feeds.feedburner.com/SeisPatasTieneLaVida"
+        },
+        {
+            "name":"Océanos de Ciencia",
+            "description": "Los mares y océanos han motivado desde siempre a los científicos. La necesidad de orientarse en un entorno cambiante nos ha hecho mirar al cielo y conocer los astros y sus movimientos, hemos creado instrumentos de navegación en los que se dan la mano arte, ciencia y tecnología, y han tenido lugar grandes expediciones científicas que han cambiado la visión del mundo y de nosotros mismos. De todo ello nos habla Manuel Díez Minguito.",
+            "icon": "https://cienciaes.com/images/71.jpg",
+            "url": "http://feeds.feedburner.com/OcanosDeCiencia"
+        },
+        {
+            "name":"Quilo de Ciencia",
+            "description": "El quilo, con “q” es el líquido formado en el duodeno (intestino delgado) por bilis, jugo pancreático y lípidos emulsionados resultado de la digestión de los alimentos ingeridos. En el podcast Quilo de Ciencia, realizado por el profesor Jorge Laborda, intentamos “digerir” para el oyente los kilos de ciencia que se generan cada semana y que se publican en las revistas especializadas de mayor impacto científico. Los temas son, por consiguiente variados, pero esperamos que siempre resulten interesantes, amenos, y, en todo caso, nunca indigestos. ",
+            "icon": "https://cienciaes.com/images/195.jpg",
+            "url": "http://feeds.feedburner.com/QuiloDeCiencia"
+        },
+        {
+            "name":"Ciencia EXtrema",
+            "description": "Desde la atalaya tranquila de nuestro planeta templado y acogedor, José María Campos Cánovas y Daniel Iván Reyes nos invitan a un viaje fascinante. En su compañía observaremos los fenómenos más extraordinarios del Cosmos: visitaremos las estrellas más masivas, los cuerpos más veloces, los lugares más fríos o calientes y los mundos más extraordinarios y diminutos. Ante nuestros frágiles ojos se abre un Universo que bate todos los récords.",
+            "icon": "https://cienciaes.com/images/196.jpg",
+            "url": "http://feeds.feedburner.com/CienciaEXtrema"
+        },
+        {
+            "name":"El Neutrino",
+            "description": "El neutrino es una partícula esquiva, en apariencia insignificante, pero necesaria para explicar el mundo. Ni la radiactividad, ni el big bang, ni el Modelo Estandar de la física de partículas serían posibles sin él. Con El neutrino, un blog nacido en febrero de 2009, el físico y escritor Germán Fernández pretende acercar al lector, y ahora al oyente, al mundo de la ciencia a partir de cualquier pretexto, desde un paseo por el campo o una escena de una película, hasta una noticia o el aniversario de un investigador hace tiempo olvidado.",
+            "icon": "https://cienciaes.com/images/897.jpg",
+            "url": "http://feeds.feedburner.com/ElNeutrinoCienciaES"
+        },
+        {
+            "name":"Cierta Ciencia",
+            "description": "En Cierta Ciencia, de la mano de la genetista Josefina Cano nos acercamos, cada quince días, al trabajo de muchos investigadores que están poniendo todo su empeño en desenredar la madeja de esa complejidad que nos ha convertido en los únicos animales que pueden y deben manejar a la naturaleza para beneficio mutuo. Hablamos de historias de la biología.",
+            "icon": "https://cienciaes.com/images/1453.jpg",
+            "url": "http://feeds.feedburner.com/CiertaCienciaCienciaES"
+        },
+        {
+            "name":"Ciencia Fresca",
+            "description": "La ciencia no deja de asombrarnos con nuevos descubrimientos insospechados cada semana. En el podcast Ciencia Fresca, Jorge Laborda Fernández y Ángel Rodríguez Lozano discuten con amenidad y, al mismo tiempo, con profundidad, las noticias científicas más interesantes de los últimos días en diversas áreas de la ciencia. Un podcast que habla de la ciencia más fresca con una buena dosis de frescura.",
+            "icon": "https://cienciaes.com/images/1738.jpg",
+            "url": "http://feeds.feedburner.com/CienciaFresca-Cienciaescom"
+        }
+    ]
+}
